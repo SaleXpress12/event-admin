@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "597114568383",
+    "firebase_url": "https://kidslearning-f4c76-default-rtdb.firebaseio.com",
+    "project_id": "kidslearning-f4c76",
+    "storage_bucket": "kidslearning-f4c76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597114568383:android:cfa1848f03341e6f5b900a",
+        "android_client_info": {
+          "package_name": "org.bmhbd.englishlearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597114568383-4052u72edoe2k4oeahhd6p3t7j08341i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAngdwvcxirERjjEKnqDWHxf0kZDU9GQv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597114568383-4052u72edoe2k4oeahhd6p3t7j08341i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597114568383:android:9860d8f3f06d4b8b5b900a",
+        "android_client_info": {
+          "package_name": "org.bmhbd.event.adminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597114568383-0c9t38kcal9ev3ledkitmhp8aqkhfteo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.bmhbd.event.adminapp",
+            "certificate_hash": "d43f9f8da451ab0659afad5d14c36835861af459"
+          }
+        },
+        {
+          "client_id": "597114568383-4052u72edoe2k4oeahhd6p3t7j08341i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAngdwvcxirERjjEKnqDWHxf0kZDU9GQv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597114568383-4052u72edoe2k4oeahhd6p3t7j08341i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597114568383:android:5808d09853a5f9d45b900a",
+        "android_client_info": {
+          "package_name": "org.bmhbd.kidslearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597114568383-ihhtkurftsjmfqllgrotnhlv9jfsjn7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.bmhbd.kidslearning",
+            "certificate_hash": "09a0196fadfe235b0021d4a4c8f6e28e364722cb"
+          }
+        },
+        {
+          "client_id": "597114568383-4052u72edoe2k4oeahhd6p3t7j08341i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAngdwvcxirERjjEKnqDWHxf0kZDU9GQv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597114568383-4052u72edoe2k4oeahhd6p3t7j08341i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
